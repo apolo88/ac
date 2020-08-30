@@ -1,7 +1,6 @@
 {
-  "name": "Apolo",
+  "name": "Apolo Stake Pool",
   "ticker": "APOLO",
-  "description": "Apolo Cardano Stake Pool",
-  "homepage": "https://github.com/apolo88/ac/blob/master/home.txt",
-  "nonce": "1595887208"
+  "description": "Argentina and Brasil based stake pool - Growing the Cardano ecosystem in South America",
+  "homepage": "https://apolostakepool.com"
 }
