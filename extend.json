@@ -1,0 +1,22 @@
+{
+    "info": {
+        "location": "Buenos Aires, Argentina",
+        "social": {
+            "twitter_handle": "apolo",
+            "telegram_handle": "apolo",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "Apolo",
+            "city": "Buenos Aires",
+            "country": "Argentina"
+        },
+        "about": {
+            "server": "Google Cloud Servers"
+        }
+    }
+}
