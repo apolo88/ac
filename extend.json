@@ -1,5 +1,6 @@
 {
     "info": {
+        "url_png_logo": "https://drive.google.com/uc?export=view&id=1RfNGVHmeSQ-pnKtynPjK8bNtgxIxUoT9",
         "location": "Buenos Aires, Argentina",
         "social": {
             "twitter_handle": "apolostakepool",
@@ -16,7 +17,7 @@
             "country": "Argentina"
         },
         "about": {
-            "server": "Google Cloud Servers"
+            "server": "Google Cloud Servers hosted in USA. One relay node and producer node of 2vCpu and 4GB RAM."
         }
     }
 }
