@@ -26,6 +26,9 @@
         },
         "when-satured-then-recommend": {
             "0": "50de79c63d672319e20be59c620eb57ed1de8b7cc7fa489d8f22e353"
+        },
+        "telegram-admin-handle": {
+            "0": "JulianMiralles"
         }
     }
 }
