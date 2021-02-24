@@ -18,7 +18,7 @@
             "country": "Argentina"
         },
         "about": {
-            "server": "Google Cloud Servers hosted in USA. One relay node and producer node of 2vCpu and 4GB RAM."
+            "server": "Google Cloud Servers hosted in USA. One relay node and producer node of 2vCpu - 4GB RAM."
         },
         "when-satured-then-recommend": {
             "0": "50de79c63d672319e20be59c620eb57ed1de8b7cc7fa489d8f22e353"
